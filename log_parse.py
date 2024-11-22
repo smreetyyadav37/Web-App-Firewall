@@ -4,8 +4,8 @@ import xml.etree.ElementTree as ET  # Corrected import for XML parsing
 import base64
 import csv
 
-log_path = 'burp_crawl.log'
-output_csv_log = 'httplog.csv'  # Use as a string filename
+log_path = 'crawl2.log'
+output_csv_log = 'httplog2.csv'  # Use as a string filename
 class_flag = "l"
 
 class LogParse:
